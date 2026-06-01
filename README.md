@@ -1,24 +1,31 @@
 # Data Analyst Portfolio
 
-Hi, I'm Mai Nguyen. I'm an Inventory Performance Analyst with 5+ years of experience in business reporting, inventory analysis, and operational reporting. I'm building my data analytics portfolio with projects in Excel, SQL, Power BI, and Python.
+Hi, I'm Mai Nguyen.
+
+I'm an Inventory Performance Analyst with over 5 years of experience in business reporting, inventory management, supply chain analytics, and process improvement. My work focuses on transforming data into actionable insights that support operational efficiency and business decision-making.
+
+This portfolio showcases my projects in Excel, SQL, Power BI, and Python as I continue to expand my technical analytics capabilities.
 
 ## About Me
 - 5+ years of experience in business reporting, inventory analysis, and operational reporting
-- Strong Excel skills, including complex reporting, data cleaning, and troubleshooting data issues
-- Currently learning SQL, Power BI, Python, and GitHub
-- Interested in business intelligence, retail analytics, and process improvement
+- Strong Excel skills, including advanced formulas, Power Query, Power Pivot, data validation, and troubleshooting complex reporting issues
+- Expanding technical skills in SQL, Power BI, and Python
+- Passionate about business intelligence, retail analytics, process improvement, and data-driven decision-making
 
 ## Skills
-- Excel
+- Excel (Advanced)
 - Power Query
 - Power Pivot
 - SQL
 - Power BI
 - Python
-- Data Cleaning
+- Data Cleaning & Validation
+- Dashboard Development
 - Business Reporting
-- Dashboard Design
-- Data Visualization
+- Inventory & Supply Chain Analysis
+
+## Certifications
+Google Data Analytics Professional Certificate (2025)
 
 ## Portfolio Projects
 
