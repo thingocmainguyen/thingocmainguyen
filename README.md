@@ -32,4 +32,4 @@ Coming soon.
 Coming soon.
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/thi-ngoc-mai-nguyen/
+[LinkedIn] (https://www.linkedin.com/in/thi-ngoc-mai-nguyen/)
