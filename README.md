@@ -29,7 +29,7 @@ Google Data Analytics Professional Certificate (2025)
 
 ## Portfolio Projects
 
-### 1. Inventory Management Intelligence
+### 1. Pharmaceutical Inventory & Supply Risk Intelligence
 
 A Power BI dashboard exploring how a simulated pharmaceutical distributor can hold $101.5M in inventory while still facing customer service gaps.
 
