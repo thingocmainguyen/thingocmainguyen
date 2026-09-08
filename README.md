@@ -29,14 +29,15 @@ Google Data Analytics Professional Certificate (2025)
 
 ## Portfolio Projects
 
-### 1. Excel Sales Analysis
-Coming soon.
+### 1. Inventory Management Intelligence
 
-### 2. Power BI Dashboard
-Coming soon.
+A Power BI dashboard exploring how a simulated pharmaceutical distributor can hold $101.5M in inventory while still facing customer service gaps.
 
-### 3. SQL Data Analysis Project
-Coming soon.
+The analysis connects service performance, inventory investment, expiry exposure, and supplier reliability, then turns the findings into replenishment priorities.
+
+**Tools:** Power BI · Power Query · DAX
+
+[View project, findings, and dashboard screenshots →](https://github.com/thingocmainguyen/inventory-management-dashboard)
 
 ## Contact
 [LinkedIn] (https://www.linkedin.com/in/thi-ngoc-mai-nguyen/)
