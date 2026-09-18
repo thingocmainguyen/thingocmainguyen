@@ -37,7 +37,7 @@ The analysis connects service performance, inventory investment, expiry exposure
 
 **Tools:** Power BI · Power Query · DAX
 
-[View project, findings, and dashboard screenshots →](https://github.com/thingocmainguyen/inventory-management-dashboard)
+[View project, findings, and dashboard screenshots →]https://github.com/thingocmainguyen/pharmaceutical-inventory-supply-risk-intelligence
 
 ## Contact
 [LinkedIn] (https://www.linkedin.com/in/thi-ngoc-mai-nguyen/)
